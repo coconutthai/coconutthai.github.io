@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.coconut-thai-wellesley.com)",
+      "Bash(mkdir:*)",
+      "Bash(curl:*)",
+      "Bash(cat:*)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
